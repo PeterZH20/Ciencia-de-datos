@@ -1,8 +1,5 @@
 # Notebooks
 ## Las siguientes notebooks contienen ciertos mapas interactivos
-### [Analisis INEGI][]
-[Analisis INEGI]:
-Esta notebook contiene información obtenida directamente de la API proporcionada por el INEGI sobre temas de educación y crímenes en México.
 
 ### [Energia Eólica][]
 [Energia Eólica]:
